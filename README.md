@@ -35,3 +35,12 @@ GNU General Public License v3.0
 | [![Coderon Jekyll Theme](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/coderon-preview.png?raw=true)](https://jekyllthemes.io/theme/coderon-blog-jekyll-theme) | [![Renva Portfolio Jekyll Theme](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/renva-preview.png?raw=true)](https://jekyllthemes.io/theme/renva-portfolio-jekyll-theme) | [![Nomod](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/nomod-preview.png?raw=true)](https://jekyllthemes.io/theme/nomod-blog-jekyll-theme) |
 |:---:|:---:|:---:|
 | **Coderon** | **Renva** | **Nomod** |
+
+
+
+## Blog 참고문헌 (References)
+Abd El-Latif, A. M., Li, L., Wang, N., Han, Q., & Niu, X. (2013). A new approach to chaotic image encryption based on quantum chaotic system, exploiting color spaces. Signal Processing, 93(11), 2986–3000. https://doi.org/10.1016/j.sigpro.2013.03.031
+
+Rabie, T., & Kamel, I. (2015). On the embedding limits of the discrete cosine transform. Multimedia Tools and Applications, 75. https://doi.org/10.1007/s11042-015-2557-x
+
+Digital Camera World. (n.d.). 4:2:2 vs 4:2:0 video: what are they and why do they matter on your camera? Retrieved March 14, 2026, from https://www.digitalcameraworld.com/cameras/4-2-2-vs-4-2-0-video-what-are-they-and-why-do-they-matter-on-your-camera
